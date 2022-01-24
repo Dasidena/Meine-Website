@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+ 
+
+<body>
+
+  <h1>Meine erste Webseite</h1>
+
+  <h2>Über Mein Handy</h2>
+
+  <ul>
+
+    <li>Hersteller: Android.</li>
+
+    <li>Baujahr: 2020.</li>
+
+    <li>Preis:369$.</li>
+
+    <li>.</li>
+
+  </ul>
+
+  <p>
+
+    <img src="https://jujukart.com/wp-content/uploads/2020/12/61J4iC0l4yL._SL1500_-1.jpg" width="400px" alt="Tim Berners-Lee"> <img src= "https://fkaytechnologies.odoo.com/web/image/product.image/3166/image?unique=77b96fa"  width="400px" alt="Tim Berners-Lee">
+
+   
+
+  </p>
+
+  <h2> Meine Meinung: </h2>
+
+  <p> Ich finde das Handy hat gut Kammara und der Akku hält lange.</p>
+
+  <a href="https://www.bing.com/images/search?q=Samsung+galaxy+m31&form=HDRSC3&first=1&tsc=ImageBasicHover"> Geld betrag </a>
+
+</body>
+
+</html>
